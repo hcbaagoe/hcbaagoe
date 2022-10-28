@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hcbaagoe
 - 👀 I’m interested in Genealogy
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on programming in Delphi
 - 📫 How to reach me ... Please use: mail@hcbaagoe.dk
 
 <!---
